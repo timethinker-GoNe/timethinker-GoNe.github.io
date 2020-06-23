@@ -1,6 +1,6 @@
 encoding: UTF-8
 # Site Info
-title: 고네의 연구 개발 일기
+title: test
 description: 'blog for AI development'
 permalink: ':title/'
 baseurl: "" 
@@ -10,7 +10,7 @@ site-twitter:
 # Author Settings
 author: Kyungtae Ko # add your name
 author-img: david-freeman.jpg # add your photo
-about-author: 아직 배울 것이 많은 AI 연구원입니다 # add description
+about-author: test # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: artemsheludko # add your Github handle

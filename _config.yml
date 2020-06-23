@@ -1,16 +1,16 @@
-encoding: UTF-8
+
 # Site Info
-title: test
+title: 고네의 연구 개발 일기
 description: 'blog for AI development'
 permalink: ':title/'
 baseurl: "" 
-url: https://timethinker-gone.github.io/
-site-twitter: 
+url: http://timethinker-gone.github.io/
+encoding: UTF-8
 
 # Author Settings
-author: Kyungtae Ko # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: test # add description
+author: Kyungtae Ko 
+author-img: david-freeman.jpg 
+about-author: 아직 배울 것이 많은 AI 연구원입니다 # 
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: artemsheludko # add your Github handle

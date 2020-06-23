@@ -1,2 +1,2 @@
 # timethinker-GoNe.github.io
-To the AI master 
+안녕하세요. AI 연구 글 및 연습 예제등을 시험해보는 Repository입니다.

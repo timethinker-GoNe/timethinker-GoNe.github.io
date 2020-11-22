@@ -1,6 +1,5 @@
-
 # Site Info
-title: °í³×ÀÇ ¿¬±¸ °³¹ß ÀÏ±â
+title: ê³ ë„¤ì˜ ì—°êµ¬ ê°œë°œ ì¼ê¸°
 description: 'blog for AI development'
 permalink: ':title/'
 baseurl: "" 
@@ -10,7 +9,7 @@ encoding: UTF-8
 # Author Settings
 author: Kyungtae Ko 
 author-img: david-freeman.jpg 
-about-author: ¾ÆÁ÷ ¹è¿ï °ÍÀÌ ¸¹Àº AI ¿¬±¸¿øÀÔ´Ï´Ù # 
+about-author: ì•„ì§ ë°°ìš¸ ê²ƒì´ ë§ì€ AI ì—°êµ¬ì›ì…ë‹ˆë‹¤ # 
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: artemsheludko # add your Github handle
